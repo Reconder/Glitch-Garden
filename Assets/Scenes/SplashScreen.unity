@@ -502,7 +502,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Defence
+  m_Text: Defense
 --- !u!222 &1066725766
 CanvasRenderer:
   m_ObjectHideFlags: 0
